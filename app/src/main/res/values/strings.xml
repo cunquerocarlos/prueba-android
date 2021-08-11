@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PruebaAnroid</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_favorites">Favoritos</string>
+    <string name="error_request">Ha ocurrido un error</string>
+    <string name="favorites_add">Agregado a favoritos</string>
+    <string name="favorites_add_error">Error al agregar a favoritos</string>
+    <string name="favorites_wait_image">Espere a que carge la imagen</string>
+    <string name="favorites_remove">Eliminado de favoritos</string>
+    <string name="created_at">Creado el: </string>
+    <string name="heigth">Alto: </string>
+    <string name="width">Ancho:</string>
+    <string name="tags">Tags</string>
+    <string name="collections">Colecciones</string>
+    <string name="likes">Likes</string>
+    <string name="photos">Fotos</string>
+    <string name="search">Buscar</string>
+    <string name="favorites_empty">Aún no ha agregado imágenes a favoritos</string>
+    <string name="favorites">Favoritos</string>
+    <string name="image_gallery">Image Gallery</string>
+
+</resources>
